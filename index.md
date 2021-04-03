@@ -1,6 +1,6 @@
 #### Brian Seo's CSE 110 User Page
-Here's an image of me!
-![Brian](./Downloads/linkedIn_picture.jpg)
+Here's the company I'm interning for this summer!
+![Hologic](https://mms.businesswire.com/media/20201127005067/en/718080/23/Hologic_Main_Logo_Small_White_cropped.jpg)
 
 **Introduction**
 *Hi my name is Brian Seo and I'm a third year student at UCSD studying mathematics-computer science.*
