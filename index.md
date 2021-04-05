@@ -1,6 +1,7 @@
 #### Brian Seo's CSE 110 User Page
 
-**Introduction**
+**Introduction:**
+
 *Hi my name is Brian Seo and I'm a third year student at UCSD studying mathematics-computer science.*
 
 **Math-Computer Science Major**
@@ -17,7 +18,7 @@ MATLAB
 ```
 You can find this GitHub repository [here](https://github.com/brianseo718/CSE110_Lab1).
 
-Here is my [major] "Math-Computer Science Major"
+Here is my [major] ("Math-Computer Science Major")
 
 [Contribution guidelines for this project](./CSE110_Lab1/README.md)
 
@@ -28,9 +29,6 @@ My favorite hobbies include:
 - Music Production
 - Road trips
 - Surfing
-
-Here is my favorite basketball player for my favorite team!
-![Kobe](https://www.nhsomniscient.com/wp-content/uploads/2020/02/Kobe-Bryant.jpg)
 
 My favorite courses I've taken at UCSD:
 1. CSE 100 - Advanced Data Structures
