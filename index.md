@@ -4,7 +4,7 @@
 
 *Hi my name is Brian Seo and I'm a third year student at UCSD studying mathematics-computer science.*
 
-![me](headshot.jpg =100x30)
+![me](headshot.jpg | height = 30)
 
 ## Math-Computer Science Major
 
@@ -22,7 +22,7 @@ You can find this GitHub repository [here](https://github.com/brianseo718/CSE110
 
 Here is my [major](#math-computer-science-major)
 
-[Here is the README](CSE110_Lab1/README.md)
+[Here is the README](https://github.com/brianseo718/CSE110_Lab1/README.md)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/brian-seo/)!
 
